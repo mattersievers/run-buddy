@@ -4,8 +4,8 @@
 A website that offers fitness training services.
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://lernantino.github.io/run-buddy/
