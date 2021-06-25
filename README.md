@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with &#10084;&#65039; by Matthew Sievers
+
+# Run Buddy Inc.
